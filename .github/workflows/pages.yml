@@ -26,6 +26,8 @@ jobs:
           grep -q 'FreeCover' index.html
           grep -q '<!doctype html>' editor.html
           grep -q 'href="editor.html"' index.html
+      - name: Run site contact regression tests
+        run: node --test tests/contact.test.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site

@@ -67,6 +67,16 @@ python3 -m http.server 8000
 
 推送到 `main` 后，`.github/workflows/pages.yml` 会自动部署到 GitHub Pages。首次使用请到 **Settings → Pages → Build and deployment → GitHub Actions** 启用发布来源。Actions 通过且网站可访问，才视为上线完成。
 
+## 📮 联系开发者
+
+FreeCover 保持免费、无水印，本地制作和导出不需要注册。想交流 AI 工具或个人 IP，可联系 **AI 酋长 Andy**：
+
+- **微信：`AIPMAndy`**（在微信搜索添加，备注「FreeCover」）
+- **个人官网：** https://metaver.vip/
+- **咨询与陪跑：** https://metaver.vip/services
+
+官网与在线编辑器都提供微信号复制入口，无须下载二维码或扫描第三方图片。
+
 ## 🤝 贡献与许可
 
 [MIT License](LICENSE) © 2026 AIPMAndy。欢迎通过 Issue / PR 反馈问题与提交改进。
