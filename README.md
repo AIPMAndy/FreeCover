@@ -19,6 +19,16 @@
 
 ---
 
+## 👀 效果预览
+
+<div align="center">
+
+<a href="https://aipmandy.github.io/FreeCover/"><img src="docs/screenshot.webp" alt="FreeCover 官网首页截图" width="860"></a>
+
+<sub>点击图片打开在线版 · <a href="https://aipmandy.github.io/FreeCover/">aipmandy.github.io/FreeCover</a></sub>
+
+</div>
+
 ## ✨ 功能
 
 - 📐 **多平台预设尺寸**：小红书、Threads、X、YouTube、公众号等，配原创视觉主题
